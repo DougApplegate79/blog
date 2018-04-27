@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Leap Letter
 
-You can use the [editor on GitHub](https://github.com/leaptalent/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can go to [our website](https://www.leaptalentgroup.com) to learn how we are improving the hiring and qualifying process for businesses everywhere. Our goal is to create a sense of urgency for career seekers and the companies hiring them, we do this by drilling down to the critical skills and experience needed by hiring companies and showcase those who qualify as "Leap Talent" to help companies see and hear more than a piece of paper. Your skills, experience, personality, successes, lessons learned, and professionalism can't be captured on a resume alone. Leap Talent helps companies improve and increase the quality and speed of their hiring decisions, helping you find the job or career you seek faster!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
